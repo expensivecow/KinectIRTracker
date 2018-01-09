@@ -1,3 +1,4 @@
+package main.java.org.kinectirtracker;
 
 public class KinectIRTracker {
 
@@ -6,7 +7,7 @@ public class KinectIRTracker {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 }
